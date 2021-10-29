@@ -1,0 +1,2 @@
+# LinkedStack
+Linked Stack.
